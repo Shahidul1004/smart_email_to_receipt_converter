@@ -1,0 +1,1 @@
+export { parseEmailSelector } from "./extractTextSelector";
